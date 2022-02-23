@@ -31,6 +31,11 @@ I first started learning the basics of computer programming in various online re
 - BA Art, Music, Theater and Cinema studies
 - Grade 110/110
 
+#### Tullio Buzzi Institute, Italy (2001 - 2006)
+
+- *Diploma in Chemistry*
+- including: Math, Physics, English
+
 ## Work Experience
 
 **Simpsons Tavern** (2012 - 2021)  
