@@ -10,6 +10,7 @@ I am a **Full Stack Junior Developer**, I started my journey with the fundamenta
 | ---------------------------- | ----------------- | ----------------- |
 | [GemJunkies](https://github.com/FrancescoCollotto/acebook-ruby-junkies) | A social network app where you can post your thoughts and stay connected with your friends | Ruby, Rails, Postgres, RSpec, Capybara, Bulma, Cloudinary |
 | [MakersBnB](https://github.com/FrancescoCollotto/makersbnb) | An AirBnB clone where you can signup and post your place to be booked by other users | Ruby, Sinatra, Postgres, RSpec, Capybara |
+| [Daily News](https://github.com/FrancescoCollotto/news-summary-challenge) | Daily news aggregator from the Guardian API | Javascript, Jest |
 
 ## Education
 
