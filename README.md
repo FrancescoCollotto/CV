@@ -9,7 +9,7 @@ I am a **Full Stack Junior Developer**, I started my journey with the fundamenta
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | [GemJunkies](https://github.com/FrancescoCollotto/acebook-ruby-junkies) | A social network app where you can post your thoughts and stay connected with your friends | Ruby, Rails, Postgres, RSpec, Capybara, Bulma, Cloudinary |
-| [Devote-frontend](https://github.com/FrancescoCollotto/devote_frontend), [Devote-backend](https://github.com/FrancescoCollotto/devote_backend) | Money managing application that let you round up your everyday purchases to the nearest pound | Javascript, React, Ruby, Rails, Postgres | 
+| [Devote-frontend](https://github.com/FrancescoCollotto/devote_frontend), [Devote-backend](https://github.com/FrancescoCollotto/devote_backend) | Money managing application that let you round up your everyday purchases to the nearest pound | Javascript, React, Bootstrap, Ruby, Rails, Postgres | 
 | [MakersBnB](https://github.com/FrancescoCollotto/makersbnb) | An AirBnB clone where you can signup and post your place to be booked by other users | Ruby, Sinatra, Postgres, RSpec, Capybara |
 | [Daily News](https://github.com/FrancescoCollotto/news-summary-challenge) | Daily news aggregator from the Guardian API | Javascript, Jest |
 
