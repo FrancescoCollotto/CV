@@ -20,7 +20,7 @@ I am a **Full Stack Junior Developer**, I started my journey with the fundamenta
 - Learned to code with: Ruby, Rails, JavaScript, NodeJS, React, SQL databases
 - Testing frameworks: RSpec, Jest
 
-#### Other resources (2020 - 2021)
+#### Courses (2020 - 2021)
 I first started learning the basics of computer programming in various online resources and books such as:
 - *freeCodeCamp.org*, taught the basics of HTML, CSS and Javascript
 - *Udemy*, completed 'The Web Developer Bootcamp' by Colt Steele, learned using NodeJS with Express and MongoDB
@@ -30,3 +30,12 @@ I first started learning the basics of computer programming in various online re
 
 - BA Art, Music, Theater and Cinema studies
 - Grade 110/110
+
+## Work Experience
+
+**Simpsons Tavern** (2012 - 2021)  
+_Bartender/Waiter_
+
+- I have been a proud team member of one of the oldest restaurant in London, working both behind the bar and serving tables
+- I worked alongside amazing colleagues to deliver the best possible customer experience
+- I learned to work under stressful condition to ensure a smooth running restaurant
