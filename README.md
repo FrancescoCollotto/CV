@@ -46,6 +46,13 @@ _Bartender/Waiter_
 - I worked alongside amazing colleagues to deliver the best possible customer experience
 - I learned to work under stressful condition to ensure a smooth running restaurant
 
+## Skills
+
+#### Problem Solving
+During the four months of Makers Academy I was faced with many new technical challenges that always bring new problems, I always applied a rigourous analtycal process, second to my nature, to find the right solution to any struggle by carefully read any error messages(always celebrate error messages!!) and using debugging techniques taught during the course.  
+#### Open-Mindedness
+#### Team Player
+
 ## Hobbies
 
 I love cooking and I am currently mastering sourdough baking, when I am not coding you will find me outside walking, hiking, snowboarding or playing football with friends.
