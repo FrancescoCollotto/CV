@@ -48,7 +48,7 @@ _Bartender/Waiter_
 During the four months at Makers Academy I was faced with many new technical challenges that always bring new problems, I always applied a rigourous analytical process, second to my nature, to find the right solution to any struggle by carefully read any error messages(always celebrate error messages!!) and using debugging techniques taught during the course.
 
 #### Open-Mindedness
-
+I am an open-minded person who enjoy share new ideas and approaches to solve problems, I come from a mixed educational background where I reveled in studying scientific and humanities disciplines that led me to be curious about all aspects of the world around me. This was reflected during the group projects at Makers where I always encouraged discussion, alternative visions and a respect for all different backgrounds to bring the best into a team effort. 
 
 #### Team Player
 In my previous career in the catering industry I worked in a small team of five individuals, taking care of more than hundred customers in only 2 hours during busy lunch time in the City of London. This was possible thanks to group members sharing the same common goals, having clear and direct communication and focusing on problem solving rather than expending energy on competitive struggles or interpersonal issues.
