@@ -32,11 +32,6 @@ I first started learning the basics of computer programming in various online re
 - BA Art, Music, Theater and Cinema studies
 - Grade 110/110
 
-#### Tullio Buzzi Institute, Italy (2001 - 2006)
-
-- *Diploma in Chemistry*
-- including: Math, Physics, English
-
 ## Work Experience
 
 **Simpsons Tavern** (2012 - 2021)  
@@ -49,9 +44,13 @@ _Bartender/Waiter_
 ## Skills
 
 #### Problem Solving
-During the four months of Makers Academy I was faced with many new technical challenges that always bring new problems, I always applied a rigourous analtycal process, second to my nature, to find the right solution to any struggle by carefully read any error messages(always celebrate error messages!!) and using debugging techniques taught during the course.  
+During the four months at Makers Academy I was faced with many new technical challenges that always bring new problems, I always applied a rigourous analytical process, second to my nature, to find the right solution to any struggle by carefully read any error messages(always celebrate error messages!!) and using debugging techniques taught during the course.
+
 #### Open-Mindedness
+
+
 #### Team Player
+In my previous career in the catering industry I worked in a small team of five individuals, taking care of more than hundred customers in only 2 hours during busy lunch time in the City of London. This was possible thanks to group members sharing the same common goals, having clear and direct communication and focusing on problem solving rather than expending energy on competitive struggles or interpersonal issues.
 
 ## Hobbies
 
