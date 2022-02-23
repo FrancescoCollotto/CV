@@ -39,3 +39,7 @@ _Bartender/Waiter_
 - I have been a proud team member of one of the oldest restaurant in London, working both behind the bar and serving tables
 - I worked alongside amazing colleagues to deliver the best possible customer experience
 - I learned to work under stressful condition to ensure a smooth running restaurant
+
+## Hobbies
+
+I love cooking and I am currently mastering sourdough baking, when I am not coding you will find me outside walking, hiking, snowboarding or playing football with friends.
