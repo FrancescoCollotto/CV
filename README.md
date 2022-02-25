@@ -13,6 +13,8 @@ I am a **Full Stack Junior Developer**, I started my journey with the fundamenta
 | [MakersBnB](https://github.com/FrancescoCollotto/makersbnb) | An AirBnB clone where you can signup and post your place to be booked by other users | Ruby, Sinatra, Postgres, RSpec, Capybara |
 | [Daily News](https://github.com/FrancescoCollotto/news-summary-challenge) | Daily news aggregator from the Guardian API | Javascript, Jest |
 
+*I want to learn more*: **React**, advanced **Javascript**
+
 ## Education
 
 #### Makers Academy (Nov '21 - Feb '22)
