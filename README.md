@@ -3,7 +3,7 @@ Website: [https://francescocollotto.github.io/](https://francescocollotto.github
 
 [Projects](#projects) | [Education](#education) | [Work Experience](#work-experience) | [Skills](#skills) | [Hobbies](#hobbies)
 
-I am a **Full Stack Junior Developer**, I started my journey with the fundamentals of programming through self-directed learning and I recently graduated from [Makers Academy](https://makers.tech/), a 16-week intensive coding bootcamp learning best practices and agile methodologies. I want to bring my passion and dedication into my first role in tech.
+I am a **Full Stack Junior Developer**, I started my journey with the fundamentals of programming through self-directed learning and I recently graduated from [Makers Academy](https://makers.tech/), a 16-week intensive coding bootcamp learning best practices and agile methodologies. I quickly fell in love with programming as a tool with endless possibilities where I can express my skills - logical reasoning, critical thinking, attention to details - and being challenged every day with new powerful things to learn. I want to bring my passion and dedication into my first role in tech.
 
 ## Projects
 
