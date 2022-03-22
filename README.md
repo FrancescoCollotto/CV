@@ -56,6 +56,9 @@ I am an open-minded person who enjoy share new ideas and approaches to solve pro
 #### Team Player
 In my previous career in the catering industry I worked in a small team of five individuals, taking care of more than hundred customers in only 2 hours during busy lunch time in the City of London. This was possible thanks to group members sharing the same common goals, having clear and direct communication and focusing on problem solving rather than expending energy on competitive struggles or interpersonal issues.
 
+#### Details-Oriented
+During my time at university I learned to pay attention to the finer details: in my final dissertation I applied film analysis techniques to extrapolate, isolate and describe every single film frame in its defining characteristics and their relation to one another. This is a meticolous time consuming work that I enjoyed as it brings a unique understanding on the single components and their relationship relative to the whole picture. I succesfully used the same approach during coding: in debugging applying analytical process to fix a problem by looking at the smallest parts of my program to understand the bigger picture to extrapolate the bigger issues, consistently pay attention to details when writing code to avoid a lot of busy-work churn for the whole team that has to deal with that code.
+
 ## Hobbies
 
 I love cooking and I am currently mastering sourdough baking, when I am not coding you will find me outside walking, hiking, snowboarding or playing football with friends.
