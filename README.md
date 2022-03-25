@@ -19,8 +19,9 @@ I am a **Full Stack Junior Developer**, I started my journey with the fundamenta
 ## Education
 
 #### Makers Academy (Nov '21 - Feb '22)
+Maker's Academy is a 16-week intensive coding bootcamp focused on teaching the fundamentals of software engineering with Ruby & JavaScript.
 - Learned how to implement full CRUD web applications using different programming languages and frameworks
-- Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
+- Frequently used paring in order to solve problems effectively, requiring teamwork and communication.
 - Applied OOP (Object-Orient-Programming) principles and TDD (Test-Driven-Development) to create modular, flexible and reusable software
 - Learned to code with: Ruby, Rails, JavaScript, NodeJS, React, SQL databases
 - Testing frameworks: RSpec, Jest
