@@ -1,20 +1,25 @@
 # Francesco Collotto
-Website: [https://francescocollotto.github.io/](https://francescocollotto.github.io/)
+[Linkedin](www.linkedin.com/in/francesco-collotto-a1a544232)
 
-[Projects](#projects) | [Education](#education) | [Work Experience](#work-experience) | [Skills](#skills) | [Hobbies](#hobbies)
+[Work Experience](#work-experience) | [Education](#education) | [Skills](#skills) | [Hobbies](#hobbies)
 
-I am a **Full Stack Junior Developer**, I started my journey with the fundamentals of programming through self-directed learning and I recently graduated from [Makers Academy](https://makers.tech/), a 16-week intensive coding bootcamp learning best practices and agile methodologies. I quickly fell in love with programming as a tool with endless possibilities where I can express my skills - logical reasoning, critical thinking, attention to details - and being challenged every day with new powerful things to learn. I want to bring my passion and dedication into my first role in tech.
+Passionate **mid-level software** developer with a background from [Makers Academy](https://makers.tech/) London, specialising in C# and .NET. Skilled in OOP and crafting scalable APIs integrated with SQL databases. Proficient in Entity Framework, xUnit testing, and versatile across tech stacks including JavaScript, Ruby, HTML, and CSS. Excited to apply expertise to innovative projects and collaborate within the tech community.
 
-## Projects
+## Work Experience
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| [GemJunkies](https://github.com/FrancescoCollotto/acebook-ruby-junkies) | A social network app where you can post your thoughts and stay connected with your friends | Ruby, Rails, Postgres, RSpec, Capybara, Bulma, Cloudinary |
-| [Devote-frontend](https://github.com/FrancescoCollotto/devote_frontend), [Devote-backend](https://github.com/FrancescoCollotto/devote_backend) | Money managing application that let you round up your everyday purchases to the nearest pound | Javascript, React, Bootstrap, Ruby, Rails, Postgres | 
-| [MakersBnB](https://github.com/FrancescoCollotto/makersbnb) | An AirBnB clone where you can signup and post your place to be booked by other users | Ruby, Sinatra, Postgres, RSpec, Capybara |
-| [Daily News](https://github.com/FrancescoCollotto/news-summary-challenge) | Daily news aggregator from the Guardian API | Javascript, Jest |
+**TELUS Agriculture & Consumer Goods** (1 yr 7 mos)
+#### _.NET Software Developer_ (Apr 2023 - Nov 2023)
 
-*I want to learn more*: **React**, advanced **Javascript**
+- Worked in the API developers team, focusing on architecting and maintaining resilient APIs using the C# .NET platform.
+- Implemented unit tests to ensure code quality and stability with xUnit and Moq frameworks.
+- I handled technical tickets on Jira and Confluence documentation for transparent team collaboration.
+- Experienced in Agile methodologies with 2-week sprints, story-pointed tickets, and retrospectives.
+- **Technologies**: C#, .NET Framework, xUnit, Moq Framework, Entity Framework, Microsoft SQL, RabbitMQ, Docker, Git, Github
+
+#### _Junior .NET Software Developer_ (May 2022 - March 2023)
+
+- Upon graduating from Makers Academy bootcamp, I swiftly acquired proficiency in a new programming language, C#, and advanced from a Junior to Mid-Level position in my first software development role.
+- **Technologies**: C#, .NET Framework, xUnit, Moq Framework, Entity Framework, Microsoft SQL, RabbitMQ, Docker, Git, Github
 
 ## Education
 
@@ -26,6 +31,14 @@ Maker's Academy is a 16-week intensive coding bootcamp focused on teaching the f
 - Learned to code with: Ruby, Rails, JavaScript, NodeJS, React, SQL databases
 - Testing frameworks: RSpec, Jest
 
+**Makers Academy Group Projects**
+| Name                         | Description       | Tech/tools        |
+| ---------------------------- | ----------------- | ----------------- |
+| [GemJunkies](https://github.com/FrancescoCollotto/acebook-ruby-junkies) | A social network app where you can post your thoughts and stay connected with your friends | Ruby, Rails, Postgres, RSpec, Capybara, Bulma, Cloudinary |
+| [Devote-frontend](https://github.com/FrancescoCollotto/devote_frontend), [Devote-backend](https://github.com/FrancescoCollotto/devote_backend) | Money managing application that let you round up your everyday purchases to the nearest pound | Javascript, React, Bootstrap, Ruby, Rails, Postgres | 
+| [MakersBnB](https://github.com/FrancescoCollotto/makersbnb) | An AirBnB clone where you can signup and post your place to be booked by other users | Ruby, Sinatra, Postgres, RSpec, Capybara |
+| [Daily News](https://github.com/FrancescoCollotto/news-summary-challenge) | Daily news aggregator from the Guardian API | Javascript, Jest |
+
 #### Courses (2020 - 2021)
 I first started learning the basics of computer programming in various online resources and books such as:
 - *freeCodeCamp.org*, taught the basics of HTML, CSS and Javascript
@@ -35,16 +48,6 @@ I first started learning the basics of computer programming in various online re
 #### University of Florence, Italy (2007 - 2011)
 
 - BA Art, Music, Theater and Cinema studies
-- Grade 110/110
-
-## Work Experience
-
-**Simpsons Tavern** (2012 - 2021)  
-_Bartender/Waiter_
-
-- I have been a proud team member of one of the oldest restaurant in London, working both behind the bar and serving tables
-- I worked alongside amazing colleagues to deliver the best possible customer experience
-- I learned to work under stressful condition to ensure a smooth running restaurant
 
 ## Skills
 
