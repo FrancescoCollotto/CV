@@ -14,12 +14,12 @@ Passionate **mid-level software** developer with a background from [Makers Acade
 - Implemented unit tests to ensure code quality and stability with xUnit and Moq frameworks.
 - I handled technical tickets on Jira and Confluence documentation for transparent team collaboration.
 - Experienced in Agile methodologies with 2-week sprints, story-pointed tickets, and retrospectives.
-- **Technologies**: C#, .NET Framework, xUnit, Moq Framework, Entity Framework, Microsoft SQL, RabbitMQ, Docker, Git, Github
+- **Technologies**: C#, .NET, xUnit, Moq Framework, Entity Framework, Microsoft SQL, RabbitMQ, Docker, Git, Github
 
 #### _Junior .NET Software Developer_ (May 2022 - March 2023)
 
 - Upon graduating from Makers Academy bootcamp, I swiftly acquired proficiency in a new programming language, C#, and advanced from a Junior to Mid-Level position in my first software development role.
-- **Technologies**: C#, .NET Framework, xUnit, Moq Framework, Entity Framework, Microsoft SQL, RabbitMQ, Docker, Git, Github
+- **Technologies**: C#, .NET, xUnit, Moq Framework, Entity Framework, Microsoft SQL, RabbitMQ, Docker, Git, Github
 
 ## Education
 
